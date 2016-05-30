@@ -62,6 +62,7 @@ But then if we go to Join, we can create this user.
 16
 00:01:56,210 --> 00:01:58,340
 And then now you're logged in.
+现在你就登陆进去了。
 
 17
 00:01:58,340 --> 00:02:04,130

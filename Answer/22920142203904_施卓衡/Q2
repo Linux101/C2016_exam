@@ -1,0 +1,2 @@
+apt-cache search nautilus-open-terminal
+sudo apt-get install nautilus-open-terminal
