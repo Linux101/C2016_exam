@@ -42,10 +42,10 @@ So this is emptyApp's landing page  where you can collect users' email addresses
 00:01:12,710 --> 00:01:24,640
 So if you just enter an email address here,  you can link it up to a Mailchimp list  and collect email addresses that way.
 
-
 12
 00:01:24,640 --> 00:01:29,530
 But then emptyApp also gives you real login functionality.
+但随后你就能在emptyApp中使用真正的登录功能了。
 
 13
 00:01:29,530 --> 00:01:42,980
