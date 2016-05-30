@@ -5,6 +5,7 @@
 2
 00:00:04,950 --> 00:00:07,770
 I'm Stefan, and I'm working on multiple projects  at the moment.
+我是Stefan,我此刻正在多任务工作。
 
 3
 00:00:07,770 --> 00:00:12,240
