@@ -6,7 +6,7 @@ int size=5;
 int cp=0;
 int main(void) {
 	int x;	
-        printf("hello\n");
+
         while ( ! stack_is_full(cp,size) ) {
 		scanf("%d", &x);
 		stack_push(x,Stack,cp,size);
