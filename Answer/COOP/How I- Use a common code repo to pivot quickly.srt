@@ -78,7 +78,7 @@ There's also a logged out future.
 20
 00:02:09,474 --> 00:02:13,680
 So you can just log out again, and you're back  logged out on the home page.
-
+所以你可以再次注销，然后你就会返回到已注销了的主页。
 21
 00:02:13,680 --> 00:02:18,010
 And then, of course, you can do all this as well with  all the social media logins.
