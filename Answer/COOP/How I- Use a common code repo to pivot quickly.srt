@@ -94,8 +94,7 @@ And then we log back in.
 24
 00:02:27,857 --> 00:02:30,440
 All right, now I'm going to show you these features in action.
-
-好的，現在我要給你看...
+好的，現在我要給你看这些功能正在进行
 
 25
 00:02:30,440 --> 00:02:40,450
