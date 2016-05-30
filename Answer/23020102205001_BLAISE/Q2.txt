@@ -1,0 +1,10 @@
+要搜索并安装上面所说nautilus，需要执行哪些命令以及步骤如何：
+
+Answer:
+
+第一步：sudo apt-get update
+第二步：sudo apt-get install aptitude synaptic gdebi-core
+第三步：sudo apt-get install nautilus-open-terminal
+//sudo apt-get install nautilus-actions
+第四步；nautilus -q
+
