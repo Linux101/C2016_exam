@@ -74,6 +74,7 @@ And you're landing on the logged in home page.
 19
 00:02:06,950 --> 00:02:09,474
 There's also a logged out future.
+这里也有一个登出界面。
 
 20
 00:02:09,474 --> 00:02:13,680
