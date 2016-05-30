@@ -10,7 +10,7 @@ Access the [repository of examination - URL: https://github.com/Linux101/C2016_e
 + [Ubuntu Apt 源配置 / Setting of Ubuntu apt sources.list ](Question/Q1_Linux_Apt_Sources/README.md)
 + [Ubuntu Apt 命令 / Ubuntu apt commands  ](Question/Q2_Linux_Apt_Commands/README.md)
 + [Linux 下 C 编程 / C programming on Linux](Question/Q3_Linux_C/README.md)
-+ [协作式翻译 / Translating by cooperating ](Question/Q3_Translate/README.md)
++ [协作式翻译 / Translating by cooperating ](Question/Q4_GitHub_Workflow/README.md)
 
 **注**：需要为每个题目都新建一个分支，在新分支下完成答题。答题完成后将答案提交回个人仓库，并将每个答案分支都提交 PR(Pull request)回[考试内容仓库](https://github.com/Linux101/C2016_exam)。
 
