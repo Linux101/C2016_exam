@@ -20,3 +20,7 @@ Access the [repository of examination - URL: https://github.com/Linux101/C2016_e
 阅卷老师审阅每一个PR，评分之后合并至考试内容仓库，则该答案永久存档。
 
 ## 分值设置
+Q1: 8
+Q2: 12
+Q3: 30
+Q4: 10
