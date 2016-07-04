@@ -6,7 +6,7 @@
  */
 
 #include "include/my_stack.h"
-void stack_push(int x,int *Stack,int cp,int size){
+void stack_push(int x,int *Stack,int cp){
     if(!stack_is_full(cp,size)){
       cp++;
       Stack[cp]=x;
