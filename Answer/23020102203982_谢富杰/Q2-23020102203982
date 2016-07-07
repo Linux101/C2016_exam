@@ -1,0 +1,17 @@
+步骤1
+打开终端
+
+步骤2
+终端输入
+sudo add-apt-respository ppa:gnome3-team/gnome3
+密码
+
+步骤3
+终端输入
+sudo apt-get update
+
+步骤4
+终端输入
+apt-get install nautilus
+
+完成
